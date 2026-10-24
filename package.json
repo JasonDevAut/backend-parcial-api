@@ -12,10 +12,12 @@
   },
   "dependencies": {
     "bcryptjs": "^3.0.3",
+    "body-parser": "^2.4.0",
     "dotenv": "^16.6.1",
     "express": "^4.21.2",
     "jsonwebtoken": "^9.0.3",
     "mongodb": "^6.20.0",
+    "msnodesqlv8": "^6.0.0",
     "mssql": "^11.0.1"
   },
   "devDependencies": {
